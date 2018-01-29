@@ -1,14 +1,19 @@
-payu_docs
+Payu_Docs
 =========
 
 Please find the list of integration documents as below:
 
- Payment Gateway Integration Document
- Merchant Panel User Guide
+ Additional Charges
  Challan Integration Document
- SubventionEMI Non-SeamlessIntegration.pdf
- SubventionEMI SeamlessIntegration.pdf
- Standing Instructions Document
- Standing Instructions API Document
+ get_payoutTxn_status
+ Merchant Panel User Guide
+ get_payoutTxn_status
+ Payment Gateway Integration Document
+ Pure S2S Transaction Flow_v1.1
+ Recurring_Integration_V1.1
  Server to Server Callback
  Store Card
+ SubventionEMI Non-SeamlessIntegration.pdf
+ SubventionEMI SeamlessIntegration.pdf
+ Transaction Error Code
+ UPI Integration Integration Document
